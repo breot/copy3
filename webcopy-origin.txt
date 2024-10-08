@@ -1,0 +1,288 @@
+Uri: https://4loft.com.ua/4loft.ico
+File Name: C:\Downloaded Web Sites\4loft.com.ua\4loft.ico
+Content Type: image/x-icon
+
+Uri: https://4loft.com.ua/catalog/view/javascript/font-awesome/css/font-awesome.min.css?v=1.0.0.0
+File Name: C:\Downloaded Web Sites\4loft.com.ua\catalog\view\javascript\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://4loft.com.ua/catalog/view/javascript/sp_remarketing.js
+File Name: C:\Downloaded Web Sites\4loft.com.ua\catalog\view\javascript\sp_remarketing.js
+Content Type: text/javascript
+
+Uri: https://4loft.com.ua/catalog/view/theme/default/image/ukrcredits/AA_logo.png
+File Name: C:\Downloaded Web Sites\4loft.com.ua\catalog\view\theme\default\image\ukrcredits\AA_logo.png
+Content Type: image/png
+
+Uri: https://4loft.com.ua/catalog/view/theme/default/image/ukrcredits/AB_logo.png
+File Name: C:\Downloaded Web Sites\4loft.com.ua\catalog\view\theme\default\image\ukrcredits\AB_logo.png
+Content Type: image/png
+
+Uri: https://4loft.com.ua/catalog/view/theme/default/image/ukrcredits/II_logo.png
+File Name: C:\Downloaded Web Sites\4loft.com.ua\catalog\view\theme\default\image\ukrcredits\II_logo.png
+Content Type: image/png
+
+Uri: https://4loft.com.ua/catalog/view/theme/default/image/ukrcredits/MB_logo.png
+File Name: C:\Downloaded Web Sites\4loft.com.ua\catalog\view\theme\default\image\ukrcredits\MB_logo.png
+Content Type: image/png
+
+Uri: https://4loft.com.ua/catalog/view/theme/default/image/ukrcredits/PL_logo.png
+File Name: C:\Downloaded Web Sites\4loft.com.ua\catalog\view\theme\default\image\ukrcredits\PL_logo.png
+Content Type: image/png
+
+Uri: https://4loft.com.ua/catalog/view/theme/default/image/ukrcredits/PP_logo.png
+File Name: C:\Downloaded Web Sites\4loft.com.ua\catalog\view\theme\default\image\ukrcredits\PP_logo.png
+Content Type: image/png
+
+Uri: https://4loft.com.ua/catalog/view/theme/default/image/ukrcredits/PU_logo.png
+File Name: C:\Downloaded Web Sites\4loft.com.ua\catalog\view\theme\default\image\ukrcredits\PU_logo.png
+Content Type: image/png
+
+Uri: https://4loft.com.ua/catalog/view/theme/OPC100247_5/stylesheet/animate.min.css?v=1.0.0.0
+File Name: C:\Downloaded Web Sites\4loft.com.ua\catalog\view\theme\OPC100247_5\stylesheet\animate.min.css
+Content Type: text/css
+
+Uri: https://4loft.com.ua/catalogproducts/sofa
+File Name: C:\Downloaded Web Sites\4loft.com.ua\catalogproducts\sofa.html
+Content Type: text/html
+
+Uri: https://4loft.com.ua/image/cache/catalog/4box/4box-main-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\4box\4box-main-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/4box/4box31-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\4box\4box31-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/4soft_new/4soft21-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\4soft_new\4soft21-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/4soft_new/4soft21b-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\4soft_new\4soft21b-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/4soft_straight_new/4soft-primyi-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\4soft_straight_new\4soft-primyi-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/4soft_straight_new/4soft-rozklad-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\4soft_straight_new\4soft-rozklad-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/4strips/4strips-main-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\4strips\4strips-main-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/4strips/4strips31-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\4strips\4strips31-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/atelli/atelli-main-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\atelli\atelli-main-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/atelli/atelli51-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\atelli\atelli51-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/eloe/eloe-main-new-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\eloe\eloe-main-new-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/eloe/eloe31-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\eloe\eloe31-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/gelato-relax/gelato-relax-new-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\gelato-relax\gelato-relax-new-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/gelato-relax/gelato-relax31-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\gelato-relax\gelato-relax31-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/gelato/gelato-main-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\gelato\gelato-main-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/gelato/gelato31-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\gelato\gelato31-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/glory/glory-main-new-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\glory\glory-main-new-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/glory/glory61-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\glory\glory61-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/home-delux-neo/home-delux-neo-main-new-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\home-delux-neo\home-delux-neo-main-new-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/home-delux-neo/home-delux-neo31-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\home-delux-neo\home-delux-neo31-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/homecloud/homecloud-main-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\homecloud\homecloud-main-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/homecloud/homecloud31-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\homecloud\homecloud31-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/posh/posh-main-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\posh\posh-main-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/posh/posh31-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\posh\posh31-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/sofa-1920x326.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\sofa-1920x326.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/soho/soho-main-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\soho\soho-main-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/cache/catalog/soho/soho31-1200x673.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\cache\catalog\soho\soho31-1200x673.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/catalog/ верх.PNG
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\catalog\ верх.PNG
+Content Type: image/png
+
+Uri: https://4loft.com.ua/image/catalog/4logo.png
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\catalog\4logo.png
+Content Type: image/png
+
+Uri: https://4loft.com.ua/image/catalog/module.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\catalog\module.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/catalog/pryami.jpg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\catalog\pryami.jpg
+Content Type: image/jpeg
+
+Uri: https://4loft.com.ua/image/jetcache/css/8ba3b7f87dfa167207f471357ee0963d.fonts.css?1728380704
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\jetcache\css\8ba3b7f87dfa167207f471357ee0963d.fonts.css
+Content Type: text/css
+
+Uri: https://4loft.com.ua/image/jetcache/css/9455e07fbb4770316402940e3c69f18c.css?1728380704
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\jetcache\css\9455e07fbb4770316402940e3c69f18c.css
+Content Type: text/css
+
+Uri: https://4loft.com.ua/image/jetcache/js/ac9270c54068624178e9dab6d5807fc9.js?1728380704
+File Name: C:\Downloaded Web Sites\4loft.com.ua\image\jetcache\js\ac9270c54068624178e9dab6d5807fc9.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;600&family=Inter:wght@400;600&display=swap
+File Name: C:\Downloaded Web Sites\4loft.com.ua\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\4loft.com.ua\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\4loft.com.ua\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiqXA.ttf
+File Name: C:\Downloaded Web Sites\4loft.com.ua\s\intertight\v7\NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiqXA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v7/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXA.ttf
+File Name: C:\Downloaded Web Sites\4loft.com.ua\s\intertight\v7\NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXA.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/css/all.css?v=1.0.0.0
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css?v=1.0.0.0
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\4loft.com.ua\releases\v5.15.4\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.facebook.com/tr?id=318697075948316&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\4loft.com.ua\tr
+Content Type: text/plain
+
